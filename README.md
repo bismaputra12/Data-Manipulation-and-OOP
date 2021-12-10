@@ -3,7 +3,7 @@
 This is a practice python project. 
 
 
-cleaning and Manipulating data from amazonReport.txt file to a new file called AmazonCleanReport.txt.
+Cleaning and Manipulating data from amazonReport.txt file to a new file called AmazonCleanReport.txt.
 
 We only want the data of 'OrderID', 'UNSPSC Code', and 'Purchase Price' in an organized way.
 
